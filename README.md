@@ -1,1 +1,1 @@
-This is Leandro's first projetc!
+This is Leandro's first project!
